@@ -1,6 +1,6 @@
 console.log("holaa!");
-// 1 function: seleccion del cliente de producto
-// 2 function: mostrar detalle y precio de compra
+// 1 function: seleccion de productos
+// 2 function: mostrar detalle y precio total de compra
 // 3 function: mostrar mensaje de compra exitosa
 
 class Producto {
